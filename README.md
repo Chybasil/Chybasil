@@ -22,6 +22,7 @@ Aspiring SOC analyst building hands-on skills through home labs and documented p
 
 ### Tools i work with:**
 --> VM --  Virtualbox, Kali Linux, Ubuntu server, Windows server
+
 --> Tools -- Wazuh, Terraform, Python, Powershell, Terminal, Bash
 
 ### Featured Projects:
