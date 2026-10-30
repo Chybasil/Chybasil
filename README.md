@@ -1,6 +1,6 @@
-# Hi, I'm Chinedu Onwodo
+**# Hi, I'm Chinedu Onwodo**
 
-## SOC Analyst | Security+ | Wasuh SIEM | Splunk | Threat Detection | MITRE
+**## SOC Analyst | Security+ | Wasuh SIEM | Splunk | Threat Detection | MITRE**
 <!--
 **Chybasil/Chybasil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 Aspiring SOC analyst building hands-on skills through home labs and documented projects.
 
-### Currently focused on SOC detection engineering
+**### Currently focused on SOC detection engineering**
 
-### Tools i work with:
+**### Tools i work with:**
 --> VM --  Virtualbox, Kali Linux, Ubuntu server, Windows server
 --> Tools -- Wazuh, Terraform, Python, Powershell, Terminal, Bash
 
-### Featured Projects:
+**### Featured Projects:**
 Offline_password_generator https://github.com/Chybasil/offline_password_generator -- This application can be used to generate random passwords.
