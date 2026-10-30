@@ -1,4 +1,4 @@
-**# Hi, I'm Chinedu Onwodo**
+### Hi, I'm Chinedu Onwodo
 
 **## SOC Analyst | Security+ | Wasuh SIEM | Splunk | Threat Detection | MITRE**
 <!--
