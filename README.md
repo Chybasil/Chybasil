@@ -1,6 +1,6 @@
 # Hi, I'm Chinedu Onwodo
 
-**## SOC Analyst | Security+ | Wasuh SIEM | Splunk | Threat Detection | MITRE**
+## SOC Analyst | Security+ | Wasuh SIEM | Splunk | Threat Detection | MITRE
 <!--
 **Chybasil/Chybasil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
