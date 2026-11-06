@@ -20,7 +20,7 @@ Aspiring SOC analyst building hands-on skills through home labs and documented p
 
 ### Currently focused on SOC detection engineering
 
-### Tools i work with:**
+### Tools i work with:
 VM --  Virtualbox, Kali Linux, Ubuntu server, Windows server
 
 Tools -- Wazuh, Terraform, Python, Powershell, Terminal, Bash
