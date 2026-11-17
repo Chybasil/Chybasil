@@ -23,7 +23,7 @@ Aspiring SOC analyst building hands-on skills through home labs and documented p
 ### Tools i work with:
 VM --  Virtualbox, Kali Linux, Ubuntu server, Windows server, pfSens
 
-Tools -- Wazuh, Terraform, Python, Powershell, Terminal, Bash
+Tools -- Wazuh, Terraform, Ansible, Python, Powershell, Terminal, Bash
 
 ### Featured Projects:
 https://github.com/Chybasil/SOC-ANALYST
