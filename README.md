@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 
 Aspiring SOC analyst building hands-on skills through home labs and documented projects.
 
-### Currently focused on SOC detection engineering
+## Currently focused on SOC detection engineering
 
-### Tools i work with:
+## Tools i work with:
 VM --  Virtualbox, Kali Linux, Ubuntu server, Windows server, pfSens
 
 Tools -- Wazuh, Splunk, Terraform, Ansible, Python, Powershell, Terminal, Bash
 
-### Featured Projects:
+## Featured Projects:
 https://github.com/Chybasil/SOC-ANALYST
