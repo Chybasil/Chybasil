@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 Aspiring SOC analyst building hands-on skills through home labs and documented projects.
-
+##
 ## Currently focused on SOC detection engineering
 
 ## Tools i work with:
