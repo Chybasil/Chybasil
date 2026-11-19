@@ -26,6 +26,6 @@ VM --  Virtualbox, Kali Linux, Ubuntu server, Windows server, pfSens
 Tools -- Wazuh, Splunk, Terraform, Ansible, Python, Powershell, Terminal, Bash
 
 ## Featured Projects:
-https://github.com/Chybasil/SOC-ANALYST
-
 https://github.com/Chybasil/SOC-Home-Lab
+
+https://github.com/Chybasil/SOC-ANALYST
