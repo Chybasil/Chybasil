@@ -20,12 +20,12 @@ Aspiring SOC analyst building hands-on skills through home labs and documented p
 ##
 ## Currently focused on SOC detection engineering
 
-## Tools i work with:
+## Tools I work with:
 VM --  Virtualbox, Kali Linux, Ubuntu server, Windows server, pfSens
 
 Tools -- Wazuh, Splunk, Terraform, Ansible, Python, Powershell, Terminal, Bash
 
 ## Featured Projects:
-https://github.com/Chybasil/SOC-Home-Lab
+- This link showcases lab activities: https://github.com/Chybasil/SOC-Home-Lab
 
-https://github.com/Chybasil/SOC-ANALYST
+- This link showcases system log analysis activities: https://github.com/Chybasil/SOC-ANALYST
